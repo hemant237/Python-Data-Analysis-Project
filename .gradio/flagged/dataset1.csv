@@ -1,0 +1,2 @@
+Pclass,Age,SibSp,Parch,Fare,Sex_male,Embarked_Q,Embarked_S,output,timestamp
+1,25,8,7,50000,0,1,5,Survived,2026-05-06 23:12:36.880898
